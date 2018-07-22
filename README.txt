@@ -8,3 +8,4 @@ Fix1259 Slow mouse fix
 Fix1299 Fixed double-character issue
 First pass of GUI window support
 More GUI window support
+Added feature1 directory and files
